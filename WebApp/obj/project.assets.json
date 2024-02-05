@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Rahatul Maksud\\MVCourse-Updated\\MVCourse\\WebApp\\WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\UY-15\\Desktop\\Supermarket Management\\WebApp\\WebApp.csproj",
       "projectName": "WebApp",
-      "projectPath": "D:\\Rahatul Maksud\\MVCourse-Updated\\MVCourse\\WebApp\\WebApp.csproj",
+      "projectPath": "C:\\Users\\UY-15\\Desktop\\Supermarket Management\\WebApp\\WebApp.csproj",
       "packagesPath": "C:\\Users\\UY-15\\.nuget\\packages\\",
-      "outputPath": "D:\\Rahatul Maksud\\MVCourse-Updated\\MVCourse\\WebApp\\obj\\",
+      "outputPath": "C:\\Users\\UY-15\\Desktop\\Supermarket Management\\WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\UY-15\\AppData\\Roaming\\NuGet\\NuGet.Config",
